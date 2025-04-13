@@ -1,4 +1,5 @@
-from aiogram import Router, types, F
+# ✅ withdraw.py
+from aiogram import Router, F, types
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.utils.keyboard import InlineKeyboardBuilder
@@ -14,7 +15,7 @@ class WithdrawForm(StatesGroup):
 
 @router.callback_query(F.data == "withdraw")
 async def start_withdraw(callback: types.CallbackQuery, state: FSMContext):
-    print("✅ Кнопка 'Вывести деньги' сработала")  # тест лог
+    print("💡 Кнопка 'Вывести деньги' нажата")
     await callback.message.answer("💸 Введите сумму для вывода:")
     await state.set_state(WithdrawForm.amount)
     await callback.answer()

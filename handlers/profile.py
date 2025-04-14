@@ -52,7 +52,7 @@ async def profile_handler(message: types.Message):
         keyboard = InlineKeyboardBuilder()
         keyboard.button(text="💰 Вывести деньги", callback_data="withdraw")
         keyboard.button(text="📜 Вся история", callback_data="history")
-
+        print("📥 Профиль отправлен с кнопкой 'Вывести деньги'")
         await message.answer(text, reply_markup=keyboard.as_markup())
 
 # 📜 Вся история заявок

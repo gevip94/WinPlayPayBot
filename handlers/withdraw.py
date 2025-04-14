@@ -15,13 +15,14 @@ class WithdrawForm(StatesGroup):
 
 @router.callback_query(F.data == "withdraw")
 async def start_withdraw(callback: types.CallbackQuery, state: FSMContext):
-    print("💡 Кнопка 'Вывести деньги' нажата")
+    print("🟡 Кнопка 'Вывести деньги' нажата")
     await callback.message.answer("💸 Введите сумму для вывода:")
     await state.set_state(WithdrawForm.amount)
     await callback.answer()
 
 @router.message(WithdrawForm.amount)
 async def get_amount(message: types.Message, state: FSMContext):
+    print(f"🔢 Ввод суммы: {message.text}")
     try:
         amount = int(message.text)
         if amount <= 0:
@@ -35,6 +36,7 @@ async def get_amount(message: types.Message, state: FSMContext):
 
 @router.message(WithdrawForm.card)
 async def get_card(message: types.Message, state: FSMContext):
+    print(f"💳 Ввод карты: {message.text}")
     await state.update_data(card=message.text)
     data = await state.get_data()
 
@@ -53,6 +55,7 @@ async def get_card(message: types.Message, state: FSMContext):
 
 @router.callback_query(F.data == "confirm_withdraw")
 async def confirm_withdraw(callback: types.CallbackQuery, state: FSMContext):
+    print("✅ Подтверждение вывода")
     data = await state.get_data()
     user_id = callback.from_user.id
 
@@ -79,6 +82,7 @@ async def confirm_withdraw(callback: types.CallbackQuery, state: FSMContext):
 
 @router.callback_query(F.data == "cancel_withdraw")
 async def cancel_withdraw(callback: types.CallbackQuery, state: FSMContext):
+    print("❌ Заявка отменена")
     await state.clear()
     await callback.message.edit_text("❌ Вывод отменён.")
     await callback.answer()

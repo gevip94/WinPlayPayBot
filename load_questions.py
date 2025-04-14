@@ -3,6 +3,9 @@ import asyncio
 from database.db import async_session
 from database.models import Question
 
+# test auto-deploy 14:30
+
+
 questions = [
     Question(
         text="Кто выиграл чемпионат мира 2018 года?",

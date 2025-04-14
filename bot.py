@@ -6,6 +6,8 @@ from config import settings
 from handlers import start, menu, withdraw, game, top, profile, admin, stats
 from scheduler.game_scheduler import setup_scheduler
 
+print("✅ Бот запущен — лог работает!")
+
 async def main():
     bot = Bot(
         token=settings.BOT_TOKEN,

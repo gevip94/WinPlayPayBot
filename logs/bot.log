@@ -1,0 +1,276 @@
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.063230 seconds and try again... (tryings = 1, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.420977 seconds and try again... (tryings = 2, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.835559 seconds and try again... (tryings = 3, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 2.153607 seconds and try again... (tryings = 4, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 2.870949 seconds and try again... (tryings = 5, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 3.795989 seconds and try again... (tryings = 6, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.168743 seconds and try again... (tryings = 7, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.005949 seconds and try again... (tryings = 8, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.231024 seconds and try again... (tryings = 9, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.116632 seconds and try again... (tryings = 10, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.930570 seconds and try again... (tryings = 11, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.056417 seconds and try again... (tryings = 12, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.014783 seconds and try again... (tryings = 13, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.090768 seconds and try again... (tryings = 14, bot id = 7954473753)
+Received SIGTERM signal
+✅ WinPlayPayBot успешно запущен!
+  File "/root/WinPlayPayBot/bot.py", line 1
+    import asyncio print("✅ Бот запущен — лог работает!") from aiogram import Bot, Dispatcher from 
+                   ^^^^^
+SyntaxError: invalid syntax
+  File "/root/WinPlayPayBot/bot.py", line 1
+    import asyncio print("✅ Бот запущен — лог работает!") from aiogram import Bot, Dispatcher from 
+                   ^^^^^
+SyntaxError: invalid syntax
+  File "/root/WinPlayPayBot/bot.py", line 1
+    import asyncio print("✅ Бот запущен — лог работает!") from aiogram import Bot, Dispatcher from 
+                   ^^^^^
+SyntaxError: invalid syntax
+  File "/root/WinPlayPayBot/bot.py", line 1
+    import asyncio print("✅ Бот запущен — лог работает!") from aiogram import Bot, Dispatcher from 
+                   ^^^^^
+SyntaxError: invalid syntax
+  File "/root/WinPlayPayBot/bot.py", line 1
+    import asyncio print("✅ Бот запущен — лог работает!") from aiogram import Bot, Dispatcher from 
+                   ^^^^^
+SyntaxError: invalid syntax
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.094946 seconds and try again... (tryings = 1, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.456603 seconds and try again... (tryings = 2, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.838512 seconds and try again... (tryings = 3, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 2.486558 seconds and try again... (tryings = 4, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 3.167212 seconds and try again... (tryings = 5, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.082038 seconds and try again... (tryings = 6, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.912279 seconds and try again... (tryings = 7, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.048860 seconds and try again... (tryings = 8, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.126364 seconds and try again... (tryings = 9, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.094158 seconds and try again... (tryings = 10, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.961365 seconds and try again... (tryings = 11, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.982978 seconds and try again... (tryings = 12, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.979895 seconds and try again... (tryings = 13, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.817958 seconds and try again... (tryings = 14, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.062193 seconds and try again... (tryings = 15, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.010491 seconds and try again... (tryings = 16, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.976455 seconds and try again... (tryings = 17, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.823433 seconds and try again... (tryings = 18, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.074849 seconds and try again... (tryings = 19, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.885963 seconds and try again... (tryings = 20, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.036008 seconds and try again... (tryings = 21, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.934206 seconds and try again... (tryings = 22, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.031801 seconds and try again... (tryings = 23, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.974475 seconds and try again... (tryings = 24, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 5.108358 seconds and try again... (tryings = 25, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.973977 seconds and try again... (tryings = 26, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 4.919272 seconds and try again... (tryings = 27, bot id = 7954473753)
+Received SIGTERM signal
+✅ Бот запущен — лог работает!
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.368538 seconds and try again... (tryings = 1, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.796028 seconds and try again... (tryings = 2, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 2.722569 seconds and try again... (tryings = 3, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 3.364520 seconds and try again... (tryings = 4, bot id = 7954473753)
+Received SIGTERM signal
+✅ Бот запущен — лог работает!
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by setWebhook request
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 1.320478 seconds and try again... (tryings = 1, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 1.753182 seconds and try again... (tryings = 2, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 2.242924 seconds and try again... (tryings = 3, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 3.028339 seconds and try again... (tryings = 4, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 3.921925 seconds and try again... (tryings = 5, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.937891 seconds and try again... (tryings = 6, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.107127 seconds and try again... (tryings = 7, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.777359 seconds and try again... (tryings = 8, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.112907 seconds and try again... (tryings = 9, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.947168 seconds and try again... (tryings = 10, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.883726 seconds and try again... (tryings = 11, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.060896 seconds and try again... (tryings = 12, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.921782 seconds and try again... (tryings = 13, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.965089 seconds and try again... (tryings = 14, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.882238 seconds and try again... (tryings = 15, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.167155 seconds and try again... (tryings = 16, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.993685 seconds and try again... (tryings = 17, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.111250 seconds and try again... (tryings = 18, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.908210 seconds and try again... (tryings = 19, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.018392 seconds and try again... (tryings = 20, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.016578 seconds and try again... (tryings = 21, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.775171 seconds and try again... (tryings = 22, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.023013 seconds and try again... (tryings = 23, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.140758 seconds and try again... (tryings = 24, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.014469 seconds and try again... (tryings = 25, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.976870 seconds and try again... (tryings = 26, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.934871 seconds and try again... (tryings = 27, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.869848 seconds and try again... (tryings = 28, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.961221 seconds and try again... (tryings = 29, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.963113 seconds and try again... (tryings = 30, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.992880 seconds and try again... (tryings = 31, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.973620 seconds and try again... (tryings = 32, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.107356 seconds and try again... (tryings = 33, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.014977 seconds and try again... (tryings = 34, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.116326 seconds and try again... (tryings = 35, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.094772 seconds and try again... (tryings = 36, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.205609 seconds and try again... (tryings = 37, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.882907 seconds and try again... (tryings = 38, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.919175 seconds and try again... (tryings = 39, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.089886 seconds and try again... (tryings = 40, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.014371 seconds and try again... (tryings = 41, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.991548 seconds and try again... (tryings = 42, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.973063 seconds and try again... (tryings = 43, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.962812 seconds and try again... (tryings = 44, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.926139 seconds and try again... (tryings = 45, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.089699 seconds and try again... (tryings = 46, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.971111 seconds and try again... (tryings = 47, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.066753 seconds and try again... (tryings = 48, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.155477 seconds and try again... (tryings = 49, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.959806 seconds and try again... (tryings = 50, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.937785 seconds and try again... (tryings = 51, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.050576 seconds and try again... (tryings = 52, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.995431 seconds and try again... (tryings = 53, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.103694 seconds and try again... (tryings = 54, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.974922 seconds and try again... (tryings = 55, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.904551 seconds and try again... (tryings = 56, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.005123 seconds and try again... (tryings = 57, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.820297 seconds and try again... (tryings = 58, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.042959 seconds and try again... (tryings = 59, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.074874 seconds and try again... (tryings = 60, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.054188 seconds and try again... (tryings = 61, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.976748 seconds and try again... (tryings = 62, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.840795 seconds and try again... (tryings = 63, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.890572 seconds and try again... (tryings = 64, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.969583 seconds and try again... (tryings = 65, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.036522 seconds and try again... (tryings = 66, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.775274 seconds and try again... (tryings = 67, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.100968 seconds and try again... (tryings = 68, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 4.938626 seconds and try again... (tryings = 69, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.111947 seconds and try again... (tryings = 70, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.045853 seconds and try again... (tryings = 71, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.005218 seconds and try again... (tryings = 72, bot id = 7954473753)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+Sleep for 5.099018 seconds and try again... (tryings = 73, bot id = 7954473753)
+Received SIGTERM signal
+✅ Бот запущен — лог работает!
